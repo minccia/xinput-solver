@@ -6,7 +6,7 @@ class Touchpad
   OFF = 0
 
   def initialize
-    @prop_manager = PropManager.new(DeviceLocator.device_id('Touchpad'))
+    @prop_manager = PropManager.new DeviceLocator.device_id 'Touchpad'
   end 
 
   def tapping_enabled_id
