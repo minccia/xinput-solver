@@ -1,4 +1,4 @@
-# This program was created only for personal use purpose.
+# This program was created only for personal use purposes.
 
 I created this program because i was struggling with my notebook's touchpad in linux.
 Basically, it was getting some configurations from the device turned off by default once booting up.
